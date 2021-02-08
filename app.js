@@ -17,7 +17,7 @@ var chart =
 
                 new Chart(ctx, {
                     // The type of chart we want to create
-                    type: 'pie', // pie
+                    type: 'horizontalBar', // pie
                 
                     // The data for our dataset
                     data: {
